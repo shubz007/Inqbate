@@ -1698,7 +1698,7 @@
     text-align: center;
     line-height: 100px;
     margin-bottom: 30px;
-    background: linear-gradient(111deg, #E770C1 19.42%, #9F70FD 73.08%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
 }
 .process_block_one .process_icon i{
     font-size: 40px;
@@ -1936,7 +1936,7 @@
     opacity: 0.34;
     z-index: -1;
     border-radius: 10px;
-    background: linear-gradient(111deg, #E770C1 19.42%, #9F70FD 73.08%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
 }
 .team_block_one:hover .team_social_links{
     transform: scale(1.0);
@@ -2907,7 +2907,7 @@
 .page_breadcrumb.style_two .breadcrumb_sutitle{
     color: #fff;
     border-radius: 30px;
-    background: linear-gradient(111deg, #E770C1 19.42%, #9F70FD 73.08%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
 }
 .page_breadcrumb.style_two .breadcrumb_title{
     color: #fff;
@@ -3679,7 +3679,7 @@ h3.widget_title{
     content: '';
     z-index: -1;
     border-radius: 20px;
-    background: linear-gradient(111deg, #E770C1 19.42%, #9F70FD 73.08%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
     transition: all 900ms ease;
     -moz-transition: all 900ms ease;
     -webkit-transition: all 900ms ease;
@@ -3705,7 +3705,7 @@ h3.widget_title{
     line-height: 22px;
     text-transform: capitalize;
     color: transparent;
-    background: linear-gradient(90deg, #E770C1 3.19%, #9F70FD 95.74%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -3810,7 +3810,7 @@ h3.widget_title{
     bottom: -16px;
     right: 45px;
     font-size: 117px;
-    background: linear-gradient(111deg, #E770C1 19.42%, #9F70FD 73.08%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -3882,7 +3882,7 @@ h3.widget_title{
     content: '';
     z-index: -1;
     border-radius: 60px;
-    background: linear-gradient(106deg, #E770C1 11.27%, #9F70FD 88.73%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
     transition: all 900ms ease;
     -moz-transition: all 900ms ease;
     -webkit-transition: all 900ms ease;
@@ -3911,7 +3911,7 @@ h3.widget_title{
 }
 .post_share_option .post-share li a:hover{
     color: transparent;
-    background: linear-gradient(106deg, #E770C1 11.27%, #9F70FD 88.73%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
