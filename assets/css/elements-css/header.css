@@ -918,7 +918,7 @@ div#mCSB_1_container{
     z-index: -1;
     transform: scale(0.0);
     border-radius: 50%;
-    background: linear-gradient(267deg, #9F70FD 11.27%, #E770C1 88.73%);
+    background: linear-gradient(90deg, #694A87 20%, #2D98CC 50%, #089C54 80%);
     transition: all 900ms ease;
     -moz-transition: all 900ms ease;
     -webkit-transition: all 900ms ease;
